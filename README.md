@@ -3,7 +3,7 @@
 1. **Clone the Repository** 
 
 ```
-   git clone https://github.com/yourusername/telegram-mini-app.git
+git clone https://github.com/yourusername/telegram-mini-app.git
 ```
 
 2. **Navigate to the Project Directory**
