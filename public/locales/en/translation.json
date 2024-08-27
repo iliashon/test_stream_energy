@@ -1,0 +1,56 @@
+{
+  "home": {
+    "title": "Discover Your Horoscope by Zodiac Sign",
+    "subTitle": "Choose your sign and unlock the mysteries of the stars and planets every day"
+  },
+  "horoscope": {
+    "aries": {
+      "name": "Aries",
+      "date": "March 21 - April 19"
+    },
+    "taurus": {
+      "name": "Taurus",
+      "date": "April 20 - May 20"
+    },
+    "gemini": {
+      "name": "Gemini",
+      "date": "May 21 - June 20"
+    },
+    "cancer": {
+      "name": "Cancer",
+      "date": "June 21 - July 22"
+    },
+    "leo": {
+      "name": "Leo",
+      "date": "July 23 - August 22"
+    },
+    "virgo": {
+      "name": "Virgo",
+      "date": "August 23 - September 22"
+    },
+    "libra": {
+      "name": "Libra",
+      "date": "September 23 - October 22"
+    },
+    "scorpio": {
+      "name": "Scorpio",
+      "date": "October 23 - November 21"
+    },
+    "sagittarius": {
+      "name": "Sagittarius",
+      "date": "November 22 - December 21"
+    },
+    "capricorn": {
+      "name": "Capricorn",
+      "date": "December 22 - January 19"
+    },
+    "aquarius": {
+      "name": "Aquarius",
+      "date": "January 20 - February 18"
+    },
+    "pisces": {
+      "name": "Pisces",
+      "date": "February 19 - March 20"
+    }
+  }
+}
