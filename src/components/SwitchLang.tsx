@@ -18,6 +18,7 @@ export default function SwitchLang() {
     return (
         <>
             <Switch
+                crossOrigin
                 onChange={changeLang}
                 checked={checked}
                 label={i18n.language === "ru" ? "RU" : "EN"}
